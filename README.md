@@ -1,5 +1,5 @@
-<h1 align="center">Hello there👋, I'm Ruben</h1>
-<h3 align="center">Product designer for over 15 years, now diving headfirst into programming at 42Porto. Combining creativity and code for innovative solutions.</h3>
+<h1 align="left">Hello there👋, I'm Ruben</h1>
+<h3 align="left">Product designer for over 15 years, now diving headfirst into programming at 42Porto. Combining creativity and code for innovative solutions.</h3>
 
 - 📫 How to reach me **ruben.carvalho@gmail.com**
 
