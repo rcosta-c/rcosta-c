@@ -1,6 +1,5 @@
 <h1 align="left">Hello there👋, I'm Ruben</h1>
-<h3 align="left">Product and Interior designer for the last 15 years. </h3>
-<h3 align="left">And now diving headfirst into programming at 42Porto. Combining creativity and code for innovative solutions.</h3>
+<h3 align="left">Product and Interior designer for the last 15 years. And now diving headfirst into programming at 42Porto. Combining creativity and code for innovative solutions.</h3>
 
 - 📫 How to reach me **ruben.carvalho@gmail.com**
 
