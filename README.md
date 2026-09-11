@@ -1,5 +1,13 @@
 <h1 align="left">Hello there👋, I'm Ruben</h1>
-<h3 align="left">Product and Interior designer for the last 15 years. And now diving headfirst into Software Engineering at 42Porto. Combining creativity and code for innovative solutions.</h3>
+<h3 align="left">Embedded systems engineer at [TEKEVER](https://www.tekever.com), working on unmanned systems. Before that, I built a self-driving vehicle from the ground up at SEA:ME.</h3>
+
+
+
+Mostly: STM32 firmware, embedded Linux with Yocto, CAN bus, SPI/I2C and squeezing inference
+onto accelerators like the Hailo-8. Trained at 42 Porto and SEA:ME.
+
+**Working with** &nbsp;C · C++ · Python · Yocto/BitBake · FreeRTOS · Linux · CAN · Git · CI/CD 
+
 
 - 📫 How to reach me **ruben.carvalho@gmail.com**
 
@@ -25,3 +33,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+📫 &nbsp;ruben.carvalho@gmail.com &nbsp;·&nbsp; [LinkedIn](https://linkedin.com/in/carvalhor)
