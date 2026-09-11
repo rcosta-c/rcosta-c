@@ -1,5 +1,5 @@
 <h1 align="left">Hello there👋, I'm Ruben</h1>
-<h3 align="left">Embedded systems engineer at [TEKEVER](https://www.tekever.com), working on unmanned systems. Before that, I built a self-driving vehicle from the ground up at SEA:ME.</h3>
+<h3 align="left">Embedded systems engineer at <a href="https://www.tekever.com">TEKEVER</a>, working on unmanned systems. Before that, I built a self-driving vehicle from the ground up at SEA:ME.</h3>
 
 
 
